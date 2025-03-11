@@ -1,0 +1,53 @@
+{
+    "name": "Ryan's Theme",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#1E1E1E",
+        "editor.foreground": "#D4D4D4",
+        "activityBarBadge.background": "#8B5CF6",
+        "sideBarTitle.foreground": "#BBBBBB",
+        "statusBar.background": "#8B5CF6",
+        "statusBar.foreground": "#FFFFFF",
+        "titleBar.activeBackground": "#181818",
+        "tab.activeBackground": "#252525",
+        "editorGroupHeader.tabsBackground": "#1E1E1E"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": ["comment", "punctuation.definition.comment"],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#6A9955"
+            }
+        },
+        {
+            "name": "String",
+            "scope": ["string", "string.quoted"],
+            "settings": {
+                "foreground": "#CE9178"
+            }
+        },
+        {
+            "name": "Keywords",
+            "scope": ["keyword", "storage.type"],
+            "settings": {
+                "foreground": "#C586C0"
+            }
+        },
+        {
+            "name": "Functions",
+            "scope": ["entity.name.function"],
+            "settings": {
+                "foreground": "#DCDCAA"
+            }
+        },
+        {
+            "name": "Variables and Parameters",
+            "scope": ["variable", "parameter"],
+            "settings": {
+                "foreground": "#9CDCFE"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "ryans-theme",
+  "displayName": "Ryan's Theme",
+  "description": "Based on brogrammer, monokai, gruvbox, etc",
+  "version": "0.0.1",
+  "publisher": "ryan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ryans-theme"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ryan's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ryans-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "install-theme": "./install-ryans-theme.sh"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cursor",
+    "cursor ide",
+    "vscode",
+    "purple"
+  ],
+  "author": "Ryan Irish",
+  "license": "MIT"
+} 

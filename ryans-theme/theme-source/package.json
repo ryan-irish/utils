@@ -1,0 +1,22 @@
+{
+  "name": "ryans-theme",
+  "displayName": "Ryan's Theme",
+  "description": "Custom dark theme with purple accents",
+  "version": "0.0.1",
+  "publisher": "ryan",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ryan's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ryans-theme.json"
+      }
+    ]
+  }
+}
