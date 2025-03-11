@@ -11,9 +11,13 @@ This repository houses various utilities, tools, and configurations used in deve
 ## 📁 Repository Contents
 
 ### Themes
+
 - **ryans-theme** - A custom theme for Cursor IDE that enhances the visual experience with improved syntax highlighting and color schemes
 
+- **cursor-rules** - A collection of custom rules and configurations for Cursor IDE to enhance code quality and maintain consistent coding standards
+
 ### Other Utilities
+
 - *More utilities to be added...*
 
 ## 🔧 Usage
@@ -27,5 +31,3 @@ Contributions are welcome! If you have a utility that might be useful to include
 ## 📄 License
 
 This project is dedicated to the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
-
-
